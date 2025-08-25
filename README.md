@@ -115,6 +115,6 @@ If you are working on exciting AI, machine learning, or cloud computing projects
 
 ---
 
-✨ _"The pursuit of knowledge and innovation drives us to create extraordinary things."_ ✨## Hi there 👋
+✨ _"The pursuit of knowledge and innovation drives us to create extraordinary things."
 
   
