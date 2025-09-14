@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ashraf Faysal
 
-Welcome to my GitHub profile! A problem solver, passionate about leveraging the power of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** to build impactful solutions across different domains. Throughout my career, I’ve gained experience working on a variety of projects in the fields of **Autonomous Vehicles**, **Renewable Energy**, and **E-commerce**, and I’m continually seeking new challenges that allow me to grow my knowledge, contribute to innovative projects, and collaborate with like-minded individuals.
+Welcome to my GitHub profile! A problem solver, passionate about leveraging the power of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** to build impactful solutions across different domains. Throughout my career, I’ve gained experience working on a variety of projects in the fields of **Autonomous Vehicles**, **Renewable Energy**, and so on,  and I’m continually seeking new challenges that allow me to grow my knowledge, contribute to innovative projects, and collaborate with like-minded individuals.
 
 I thrive in environments where I can apply cutting-edge technologies to real-world problems. My work spans the complete machine learning lifecycle, from problem definition and data analysis to deploying fully functional systems that impact business operations. This hands-on experience has reinforced my commitment to continuous learning and growth, which is why I’m dedicated to staying relevant and adaptable in an ever-changing technological landscape.
 
@@ -65,34 +65,6 @@ In today’s world, cloud computing and DevOps practices are integral to buildin
 - **Cloud Platforms**: AWS, GCP, Microsoft Azure  
 - **DevOps Tools**: Docker, Kubernetes, Terraform, Jenkins, GitLab CI, GitHub Actions  
 - **Big Data Tools**: Apache Spark, Dask, Hadoop
-
----
-
-## 🏗️ Featured Projects
-
-### 🛍️ **AI-Driven E-commerce Optimization**
-- **Overview**: Developed a machine learning solution for an e-commerce platform to optimize dynamic pricing, product recommendations, and inventory management.  
-- **Challenges**: The company faced high cart abandonment rates and low customer engagement due to generic pricing and product recommendations.  
-- **Solutions**:  
-  - Designed and implemented a personalized product recommendation algorithm based on collaborative filtering and content-based methods.  
-  - Built a dynamic pricing model using regression and time series forecasting to optimize product pricing based on demand and competition.  
-  - Created a predictive analytics model to forecast inventory needs and minimize stockouts or overstock.  
-- **Impact**: Increased conversion rates by 20%, reduced inventory-related costs by 15%, and boosted customer engagement significantly.  
-- **Tools Used**: Python, Pandas, Scikit-learn, AWS, Shopify API, SQL  
-- [View Project](#)
-
-
-
-### 🚗 **Autonomous Car Perception Algorithm**
-- **Overview**: Worked on perception algorithms to help autonomous cars process radar sensor data and make real-time decisions on the road.  
-- **Challenges**: Autonomous cars need to detect obstacles, track moving objects, and predict future movements in real-time, all while maintaining safety and reliability.  
-- **Solutions**:  
-  - Developed algorithms for obstacle detection, object tracking, and sensor fusion, combining data from radar sensors with camera feeds.  
-  - Implemented deep learning models to classify objects and track their movement across frames.  
-  - Used Kalman filters and other tracking algorithms for real-time data processing and decision-making.  
-- **Impact**: The perception system achieved a significant improvement in real-time decision-making accuracy, contributing to the safety of autonomous driving systems.  
-- **Tools Used**: Python, TensorFlow, OpenCV, Radar Sensor Data, Kalman Filter  
-- [View Project](#)
 
 ---
 
